@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Cabeçalho */
+header {
+  background: gray;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+header h1 {
+  margin-bottom: 10px;
+}
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+header nav ul li:hover {
+  padding: 10px;
+  color: #fff;
+  font-size: x-large;
+  font-style: normal;
+}
+header nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+section {
+  margin-bottom: 20px;
+}
+section h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+section img {
+  display: flex;
+  object-fit: cover;
+  height: 250px;
+  width: auto;
+  margin: 10px;
+}
+.carrossel {
+  width: 500px;
+  overflow: hidden; /* Esconde as imagens que estão fora da tela */
+  margin: auto; /* Centraliza o carrossel */
+}
+
+#img {
+  display: flex; /* Mantém as imagens em linha */
+  transition: transform 0.5s ease-in-out; /* Atribui um efeito de deslizar a animação */
+  width: 1500px; /* Conter a largura das 3 imagens - necessário definir previamente o tamanho das imagens e noção de quantidade.*/
+}
+
+#img img {
+  width: 500px;
+}
+section p,
+section ul {
+  margin-bottom: 10px;
+}
+section ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+.projeto {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+/* Formulário */
+form {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+input,
+textarea,
+button {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+button {
+  background-color: #5cb85c;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #4cae4c;
+}
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background: #333;
+  color: #fff;
+}
