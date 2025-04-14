@@ -1,16 +1,15 @@
-# ProjectsFullStack
+# Biblioteca 📚
 
-Repositório dedicado ao desenvolvimento de projetos abordando conhecimentos FullStack!
+Projeto introdutório construído com HTML, CSS e JavaScript.
 
-# Basics Front-End Projects
+Uma aplicação web simples que permite aos usuários adicionar novos livros dinamicamente.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
-<img  alt="html" align="center"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">      
- <img alt="css" align="center"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
- <img alt="js" align="center" alt="js" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>
+## 🚀 Como executar
 
-### About the Repository
+Você pode visualizar este projeto via [GitHub Pages](https://ctrindadedev.github.io/BasicFrontEndProjects/Biblioteca)
+Ou simplesmente clonar o repositório e abrir o arquivo `index.html` com Live Server ou diretamente no navegador.
 
-> This repository includes a introductory project built with HTML, CSS, and JavaScript.
-> A simple library web app that allows users to add new books dynamically.
+```bash
+git clone https://github.com/seu-usuario/BasicFrontEndProjects.git
+cd BasicFrontEndProjects/Biblioteca
+```
