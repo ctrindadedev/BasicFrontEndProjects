@@ -1,15 +1,14 @@
-# Gerador de Senhas 📚
+# Password Generator 🔐
 
-Projeto introdutório construído com HTML, CSS e JavaScript.
+Introductory project built with HTML, CSS, and JavaScript.
 
-Uma aplicação web simples que permite aos usuários gerar senhas dinamicamente
+A simple web application that allows users to generate secure passwords dynamically.
 
-## 🚀 Como executar
+## 🚀 How to Run
 
-Você pode visualizar este projeto via [GitHub Pages](https://ctrindadedev.github.io/BasicFrontEndProjects/Password_Generator)
-Ou simplesmente clonar o repositório e abrir o arquivo `index.html` com Live Server ou diretamente no navegador.
+You can view this project via [GitHub Pages](https://ctrindadedev.github.io/BasicFrontEndProjects/Password_Generator)  
+Or simply clone the repository and open the `index.html` file using Live Server or directly in your browser.
 
 ```bash
 git clone https://github.com/ctrindadev/BasicFrontEndProjects.git
 cd BasicFrontEndProjects/Password_Generator
-```
