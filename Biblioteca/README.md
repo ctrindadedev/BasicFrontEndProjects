@@ -1,12 +1,12 @@
-# Biblioteca 📚
+# Library 📚
 
-Projeto introdutório construído com HTML, CSS e JavaScript.
+Introductory project built with HTML, CSS, and JavaScript.
 
-Uma aplicação web simples que permite aos usuários adicionar novos livros dinamicamente.
+A simple web application that allows users to dynamically add new books.
 
-## 🚀 Como executar
+## 🚀 How to Run
 
-Você pode clonar o repositório e abrir o arquivo `index.html` com Live Server ou diretamente no navegador.
+You can clone the repository and open the `index.html` file using Live Server or directly in your browser.
 
 ```bash
 git clone https://github.com/ctrindadev/BasicFrontEndProjects.git
