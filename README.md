@@ -12,7 +12,9 @@ Repositório dedicado ao desenvolvimento de projetos abordando conhecimentos Ful
 
 ### About the Repository
 
-> This repository includes a introductory project built with HTML, CSS, and JavaScript.
+> This repository includes 2 introductorys projects built with HTML, CSS, and JavaScript.
 > A simple library web app that allows users to add new books dynamically.
 
 - [Biblioteca](./Biblioteca)
+  > A simple web app that allows users to generate passwords
+- [Password_Generator](./Password_Generator)
