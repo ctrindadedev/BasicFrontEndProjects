@@ -7,7 +7,6 @@
   <body>
    <div class="container">
       <h1>Gerador de Senhas</h1>
-
       <input type="checkbox" id="maiusculas" check /> Letras Maiúsculas
       <input type="checkbox" id="minusculas" check /> Letras Minúsculas
       <input type="checkbox" id="numeros" check /> Números
@@ -15,8 +14,14 @@
       <input
         type="number"
         id="comprimento"
-        placeholder="Comprimento da senha"
+        placeholder="Tamanho personalizavel"
       />
+      <button id="botao-tamanho"> Senha com tamanho fixo</button>
+      <div class="tamanhos">
+        <input type="checkbox" value="6"  id="tamanho6" check /> 6 Caracteres
+        <input type="checkbox" value="12"  id="tamanho12" check /> 12 Caracteres
+        <input type="checkbox" value="16" id="tamanho16" check /> 16 Caracteres
+      </div>
       <button id="gerar">Gerar Senha</button>
       <div id="senha"></div>
       <button id="copiar" style="display: none;">Copiar Senha</button>
@@ -26,3 +31,5 @@
     <script src="script.js"></script>
   </body>
 </html>
+
+
